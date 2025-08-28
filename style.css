@@ -1,0 +1,13 @@
+body {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  margin: 20px;
+}
+
+h2 {
+  color: black;
+}
+
+.highlight {
+  color: darkblue;
+  font-weight: bold;
+}
